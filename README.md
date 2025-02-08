@@ -1,6 +1,6 @@
 # 1. Use Case
 
-Implement a Python-based Azure Function App with Infrastructure as Code (IaC) in a DevOps environment. The primary goals are to store Terraform state securely (in Terraform Cloud), automate infrastructure creation (Azure Function App) in the Azure subscription, and streamline CI/CD with Azure DevOps.
+Implement a Python-based Azure Function App with Infrastructure as Code (IaC) in a DevOps environment. The primary goals are to store Terraform state securely (in Terraform Cloud), automate infrastructure creation (Azure Function App) and Python Code Deployment in the Azure subscription, and streamline CI/CD with Azure DevOps.
 
 # 2. Resouces
 
