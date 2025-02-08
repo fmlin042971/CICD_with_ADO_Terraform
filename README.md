@@ -18,6 +18,13 @@ Local Deployment:
 ![Local Deployment](2025-02-08-13-13-41-image.png)
 
 
+
+
+Pipeline Deployment: 
+
+![Local Deployment](pipeline.png)
+
+
 # 4. Step by Step Overview
 
 1. **Terraform Cloud (app.terraform.io)**
