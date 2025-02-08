@@ -13,9 +13,9 @@ Implement a Python-based Azure Function App with Infrastructure as Code (IaC) in
 # 3. Architecture Flow (Local Deployment and Pipeline Depolyment 
 
 Local Deployment: 
-![](file://C:\Users\mjv2664\AppData\Roaming\marktext\images\2025-02-08-13-13-41-image.png?msec=1739042021970)
 
 
+![Local Deployment](2025-02-08-13-13-41-image.png)
 
 
 # 4. Step by Step Overview
